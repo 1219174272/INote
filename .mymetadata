@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="INote"
+  id="myeclipse.1508140402405"
+  context-root="/INote"
+  j2ee-spec="5.0"
+  archive="INote.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
